@@ -1,0 +1,96 @@
+TESTS WITH ERRORS 
+-------------------------------
+TESTS FAILED  
+test01_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 27, in test01_01
+    self.assertTrue(kb.betterAsk([['color', 'Chair0', 'yellow']]))
+AssertionError: False is not true
+
+test02_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 31, in test02_01
+    self.assertTrue(kb.betterAsk([['color', 'Chair1', 'red']]))
+AssertionError: False is not true
+
+test03_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 35, in test03_01
+    self.assertTrue(kb.betterAsk([['color', 'Chair2', 'green']]))
+AssertionError: False is not true
+
+test04_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 39, in test04_01
+    self.assertTrue(kb.betterAsk([['color', 'Chair3', 'red']]))
+AssertionError: False is not true
+
+test05_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 43, in test05_01
+    self.assertTrue(kb.betterAsk([['inst', 'Chair0', 'cube']]))
+AssertionError: False is not true
+
+test05_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 47, in test05_02
+    self.assertTrue(kb.betterAsk([['inst', 'Chair1', 'cube']]))
+AssertionError: False is not true
+
+test05_03 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 51, in test05_03
+    self.assertTrue(kb.betterAsk([['inst', 'Chair2', 'cube']]))
+AssertionError: False is not true
+
+test06_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 55, in test06_01
+    self.assertTrue(kb.betterAsk([['inst', 'Chair3', 'pyramid']]))
+AssertionError: False is not true
+
+test07_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 59, in test07_01
+    self.assertTrue(kb.betterAsk([['size', 'Chair1', 'big']]))
+AssertionError: False is not true
+
+test07_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 63, in test07_02
+    self.assertTrue(kb.betterAsk([['size', 'Chair3', 'big']]))
+AssertionError: False is not true
+
+test08_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 67, in test08_01
+    self.assertTrue(kb.betterAsk([['on', 'Chair3', 'Chair0']]))
+AssertionError: False is not true
+
+test09_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 71, in test09_01
+    self.assertTrue(kb.betterAsk([['on', 'Chair0', 'Box0']]))
+AssertionError: False is not true
+
+test09_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 75, in test09_02
+    self.assertTrue(kb.betterAsk([['on', 'Chair1', 'Box0']]))
+AssertionError: False is not true
+
+test09_03 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 79, in test09_03
+    self.assertTrue(kb.betterAsk([['on', 'Chair2', 'Box0']]))
+AssertionError: False is not true
+
+test09_04 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 83, in test09_04
+    self.assertTrue(kb.betterAsk([['on', 'Chair3', 'Box0']]))
+AssertionError: False is not true
+
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
